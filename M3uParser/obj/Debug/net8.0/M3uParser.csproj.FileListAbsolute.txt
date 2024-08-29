@@ -1,0 +1,14 @@
+E:\PlaylistExtractorConsole\M3uParser\bin\Debug\net8.0\M3uParser.exe
+E:\PlaylistExtractorConsole\M3uParser\bin\Debug\net8.0\M3uParser.deps.json
+E:\PlaylistExtractorConsole\M3uParser\bin\Debug\net8.0\M3uParser.runtimeconfig.json
+E:\PlaylistExtractorConsole\M3uParser\bin\Debug\net8.0\M3uParser.dll
+E:\PlaylistExtractorConsole\M3uParser\bin\Debug\net8.0\M3uParser.pdb
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\M3uParser.GeneratedMSBuildEditorConfig.editorconfig
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\M3uParser.AssemblyInfoInputs.cache
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\M3uParser.AssemblyInfo.cs
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\M3uParser.csproj.CoreCompileInputs.cache
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\M3uParser.dll
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\refint\M3uParser.dll
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\M3uParser.pdb
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\M3uParser.genruntimeconfig.cache
+E:\PlaylistExtractorConsole\M3uParser\obj\Debug\net8.0\ref\M3uParser.dll
