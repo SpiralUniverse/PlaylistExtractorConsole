@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M3uParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a2fa07142531eb354a064ad7ffd82457bc8aea4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98c0f00fcc2b74d0a9400326bb4843a33c719215")]
 [assembly: System.Reflection.AssemblyProductAttribute("M3uParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M3uParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
